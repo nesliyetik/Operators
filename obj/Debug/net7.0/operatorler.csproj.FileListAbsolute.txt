@@ -1,0 +1,15 @@
+C:\Pratikler\operatorler\obj\Debug\net7.0\operatorler.csproj.AssemblyReference.cache
+C:\Pratikler\operatorler\obj\Debug\net7.0\operatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pratikler\operatorler\obj\Debug\net7.0\operatorler.AssemblyInfoInputs.cache
+C:\Pratikler\operatorler\obj\Debug\net7.0\operatorler.AssemblyInfo.cs
+C:\Pratikler\operatorler\obj\Debug\net7.0\operatorler.csproj.CoreCompileInputs.cache
+C:\Pratikler\operatorler\bin\Debug\net7.0\operatorler.exe
+C:\Pratikler\operatorler\bin\Debug\net7.0\operatorler.deps.json
+C:\Pratikler\operatorler\bin\Debug\net7.0\operatorler.runtimeconfig.json
+C:\Pratikler\operatorler\bin\Debug\net7.0\operatorler.dll
+C:\Pratikler\operatorler\bin\Debug\net7.0\operatorler.pdb
+C:\Pratikler\operatorler\obj\Debug\net7.0\operatorler.dll
+C:\Pratikler\operatorler\obj\Debug\net7.0\refint\operatorler.dll
+C:\Pratikler\operatorler\obj\Debug\net7.0\operatorler.pdb
+C:\Pratikler\operatorler\obj\Debug\net7.0\operatorler.genruntimeconfig.cache
+C:\Pratikler\operatorler\obj\Debug\net7.0\ref\operatorler.dll
